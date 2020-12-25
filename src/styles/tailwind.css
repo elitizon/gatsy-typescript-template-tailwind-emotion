@@ -1,0 +1,31 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@import "tailwindcss/screens";
+
+html {
+  -webkit-text-size-adjust: none;
+  touch-action: pan-y;
+  /*prevent user scaling*/
+}
+
+body {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+
+.root,
+#root,
+#docs-root {
+  --primary: #367ee9;
+  --secondary: #061325;
+  --accent: #718096;
+  --background: #fff;
+  --main: #0d0106;
+  --header: #2d3748;
+  --swiper-navigation-color: var(--accent);
+
+}
