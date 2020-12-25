@@ -48,4 +48,4 @@ Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
 
 Created with 💗 by [Elitizon Ltd](https://www.elitizon.com)
 
-This package is free and open-source software licensed under the [MIT license](./LICENCE.md).
+This package is free and open-source software licensed under the [MIT license](https://github.com/raphaelmansuy/gatsy-typescript-template/blob/main/LICENSE).
