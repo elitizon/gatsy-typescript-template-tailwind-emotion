@@ -1,7 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![codecov](https://codecov.io/gh/elitizon/tailwind-react-app/branch/master/graph/badge.svg)](https://codecov.io/gh/elitizon/tailwind-react-app)
 [![gitter](https://img.shields.io/gitter/room/elitizon/community?color=blueviolet&style=flat-square)](https://gitter.im/elitizon/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-[![GitHub issues](https://img.shields.io/github/issues/elitizon/create-react-app)](https://github.com/elitizon/create-react-app/issues)
 
 # Elitizon Gatsby template with typescript,tailwind, and @emotion styled components react-helmet support v1.0 ✨
 
