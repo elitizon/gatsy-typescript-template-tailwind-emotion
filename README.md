@@ -11,6 +11,8 @@ It implements the following functionalities:
 - Svg import as ReactComponent thanks to SVG loader
 - Styled components thanks to [twin.macro](https://www.npmjs.com/package/twin.macro)  and [@emotion/styled](https://emotion.sh/docs/styled)
 
+Created with ❤️ by [Elitizon](https://www.elitizon.com)
+
 ## 🔌 Available Scripts
 
 In the project directory, you can run:
