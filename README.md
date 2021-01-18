@@ -6,8 +6,8 @@
 
 It implements the following functionalities:
 
-- Support of [TailwindCSS](https://tailwindcss.com/) 2.0.3
-- Support of [Typescript](https://www.typescriptlang.org/) 4.1.3
+- Support of [TailwindCSS](https://tailwindcss.com/) 2.0.X
+- Support of [Typescript](https://www.typescriptlang.org/) 4.1.X
 - Svg import as ReactComponent thanks to SVG loader
 - Styled components thanks to [twin.macro](https://www.npmjs.com/package/twin.macro)  and [@emotion/styled](https://emotion.sh/docs/styled)
 
