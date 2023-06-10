@@ -19,7 +19,7 @@
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
     "@svgr/webpack": "^5.5.0",
-    "gatsby": "^2.26.1",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-emotion": "^5.1.0",
     "gatsby-plugin-postcss": "^3.4.0",
     "gatsby-plugin-svgr": "^2.0.2",
